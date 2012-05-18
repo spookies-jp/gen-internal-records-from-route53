@@ -1,0 +1,9 @@
+# auth info of your AWS account (required)
+#aws_access_key: 'xxxxx'
+#aws_secret_key: 'xxxxx'
+aws_access_key: 
+aws_secret_key: 
+
+# leave empty to fetch all zones
+#domain: yourdomain.com
+domain: 
